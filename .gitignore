@@ -1,0 +1,4 @@
+# Don't push these to github
+# they are secret things
+secrets.txt
+file.txt
